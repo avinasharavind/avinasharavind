@@ -5,7 +5,7 @@
 - I'm a big F1 fan (Forza Ferrari!)
 - Recently have been trying to get into both photography and 3D printing.
 
-Not all of my projects are on public repos, but if you're reading this and are interested in what I've done, feel free to send me an email at aa2476@cornell.edu!
+Not all of my projects are on public repos, but if you're reading this and are interested in hearing about what I've done or seeing my resume, feel free to send me an email at aa2476@cornell.edu!
 
 
 _Proud member of the Finger Lake Effect Snow Fan Club_ ❄️
