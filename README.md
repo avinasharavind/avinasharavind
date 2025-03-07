@@ -8,4 +8,4 @@
 Not all of my projects are on public repos, but if you're reading this and are interested in what I've done, feel free to send me an email at aa2476@cornell.edu!
 
 
-_Proud member of the Finger Lake Effect Snow Fan Club_
+_Proud member of the Finger Lake Effect Snow Fan Club_ ❄️
