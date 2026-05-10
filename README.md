@@ -1,8 +1,8 @@
 ### Hi! My name is Avinash, and I study the weather and occasionally make cool things related to our atmosphere.
 
-- I'm currently a junior studying Atmospheric Science at Cornell University. 
+- I'm currently a senior studying Atmospheric Science at Cornell University. 
 - I have a particular interest in tropical meteorology, especially tropical cyclones and their predictability.
-- I'm also interested in weather-related Data Science and Modeling (I'm minoring in Data Sci and Applied Math).
+- I'm also interested in weather-related Data Science and Modeling (I'm minoring in Data Science, Math, and Applied Math).
 - I spent the last summer interning at the National Center for Atmospheric Research in Boulder, Colorado looking at hurricane dynamics using high-resolution model data.
 - I'm a big F1 fan (Forza Ferrari!)
 
